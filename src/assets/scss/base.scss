@@ -1,0 +1,24 @@
+// 主要文字颜色
+.primary-color {
+    color: #333;
+}
+// 次要文字颜色
+.secondary-color {
+    color: #bbbbbb;
+}
+// tips文字颜色
+.tip-color {
+    color: #dedede;
+}
+// 主题颜色
+.theme-color {
+    color: #ff9305;
+}
+// 内容块
+.content-block {
+    width: 100%;
+    .content {
+        width: 50%;
+        margin: 0 auto;
+    }
+}
